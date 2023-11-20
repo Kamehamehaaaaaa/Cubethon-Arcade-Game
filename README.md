@@ -6,7 +6,6 @@ A 3D physics-based Arcade Game made in Unity
 In a game where as a cube box, you move forward rapidly on a platform while avoiding contact with enemy boxes and reach the end to clear the level. Falling off the platform also results in a game over.
 
 **Category:** Arcade <br>
-
 **Game Engine:** Unity
 
 **Implementation using:** C# in Visual Studio
