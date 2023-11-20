@@ -11,12 +11,13 @@ In a game where as a cube box, you move forward rapidly on a platform while avoi
 
 **Implementation using:** C# in Visual Studio
 
-**Learning:** <br>
-Acquired foundational Unity knowledge and implemented player movement.<br>
-Developed camera follow and collision handling between the player cube and enemies.<br>
+**Learning:**
+Acquired foundational Unity knowledge and implemented player movement.
+Developed camera follow and collision handling between the player cube and enemies.
 Designed game UI incorporating elements such as level progress indicators.
 
-**Screenshots:**<br>
+**Screenshots:**
+
 ![1](https://github.com/Kamehamehaaaaaa/Cubethon-Arcade-Game/assets/31343707/31306df8-87b9-4918-8231-4046a46dc142)
 
 ![2](https://github.com/Kamehamehaaaaaa/Cubethon-Arcade-Game/assets/31343707/97e72653-b0bb-438c-9af0-e37923398169)
